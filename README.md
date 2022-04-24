@@ -1,2 +1,2 @@
 # Avi-AtaraDayOfAdventure
-lolz
+lol
